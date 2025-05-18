@@ -1,0 +1,4 @@
+[submodule "vendor/base"]
+	path = vendor/base
+	url = git@github.com:jdgomezh/env-base.git
+	branch = main
